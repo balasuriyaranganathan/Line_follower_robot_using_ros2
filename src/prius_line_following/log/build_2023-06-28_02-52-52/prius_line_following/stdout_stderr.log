@@ -1,0 +1,26 @@
+/home/balasuriya/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+running develop
+running egg_info
+creating prius_line_following.egg-info
+writing prius_line_following.egg-info/PKG-INFO
+writing dependency_links to prius_line_following.egg-info/dependency_links.txt
+writing entry points to prius_line_following.egg-info/entry_points.txt
+writing requirements to prius_line_following.egg-info/requires.txt
+writing top-level names to prius_line_following.egg-info/top_level.txt
+writing manifest file 'prius_line_following.egg-info/SOURCES.txt'
+reading manifest file 'prius_line_following.egg-info/SOURCES.txt'
+writing manifest file 'prius_line_following.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/python3.10/site-packages/prius-line-following.egg-link (link to .)
+Installing line_follower script to /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/prius_line_following
+Installing video_saver script to /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/prius_line_following
+
+Installed /home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following
+running install_data
+creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index
+creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index
+creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index/packages
+copying resource/prius_line_following -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index/packages
+copying package.xml -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/prius_line_following
+copying launch/car_on_track.launch.py -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/prius_line_following

@@ -1,0 +1,28 @@
+[0.577s] Invoking command in '/home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following': PYTHONPATH=/home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following/prefix_override:/home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following/build --no-deps install_data
+[0.757s] /home/balasuriya/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.757s]   warnings.warn(
+[0.787s] running develop
+[0.931s] running egg_info
+[0.931s] creating prius_line_following.egg-info
+[0.932s] writing prius_line_following.egg-info/PKG-INFO
+[0.932s] writing dependency_links to prius_line_following.egg-info/dependency_links.txt
+[0.932s] writing entry points to prius_line_following.egg-info/entry_points.txt
+[0.932s] writing requirements to prius_line_following.egg-info/requires.txt
+[0.932s] writing top-level names to prius_line_following.egg-info/top_level.txt
+[0.932s] writing manifest file 'prius_line_following.egg-info/SOURCES.txt'
+[0.934s] reading manifest file 'prius_line_following.egg-info/SOURCES.txt'
+[0.935s] writing manifest file 'prius_line_following.egg-info/SOURCES.txt'
+[0.936s] running build_ext
+[0.936s] Creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/python3.10/site-packages/prius-line-following.egg-link (link to .)
+[0.936s] Installing line_follower script to /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/prius_line_following
+[0.936s] Installing video_saver script to /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/prius_line_following
+[0.937s] 
+[0.937s] Installed /home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following
+[0.937s] running install_data
+[0.937s] creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index
+[0.937s] creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index
+[0.937s] creating /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index/packages
+[0.937s] copying resource/prius_line_following -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/ament_index/resource_index/packages
+[0.937s] copying package.xml -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/prius_line_following
+[0.937s] copying launch/car_on_track.launch.py -> /home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/share/prius_line_following
+[0.975s] Invoked command in '/home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following' returned '0': PYTHONPATH=/home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following/prefix_override:/home/balasuriya/finalsemproject/src/prius_line_following/install/prius_line_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/src/prius_line_following/build/prius_line_following/build --no-deps install_data

@@ -1,0 +1,18 @@
+[0.857s] Invoking command in '/home/balasuriya/finalsemproject/build/rover': PYTHONPATH=/home/balasuriya/finalsemproject/build/rover/prefix_override:/home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/rover/build --no-deps install_data
+[1.041s] /home/balasuriya/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.041s]   warnings.warn(
+[1.071s] running develop
+[1.214s] running egg_info
+[1.214s] writing rover.egg-info/PKG-INFO
+[1.215s] writing dependency_links to rover.egg-info/dependency_links.txt
+[1.215s] writing entry points to rover.egg-info/entry_points.txt
+[1.215s] writing requirements to rover.egg-info/requires.txt
+[1.215s] writing top-level names to rover.egg-info/top_level.txt
+[1.216s] reading manifest file 'rover.egg-info/SOURCES.txt'
+[1.217s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[1.218s] running build_ext
+[1.218s] Creating /home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages/rover.egg-link (link to .)
+[1.218s] 
+[1.219s] Installed /home/balasuriya/finalsemproject/build/rover
+[1.219s] running install_data
+[1.246s] Invoked command in '/home/balasuriya/finalsemproject/build/rover' returned '0': PYTHONPATH=/home/balasuriya/finalsemproject/build/rover/prefix_override:/home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/rover/build --no-deps install_data

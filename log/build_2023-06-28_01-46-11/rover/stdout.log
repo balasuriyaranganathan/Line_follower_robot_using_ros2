@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating rover.egg-info
+writing rover.egg-info/PKG-INFO
+writing dependency_links to rover.egg-info/dependency_links.txt
+writing entry points to rover.egg-info/entry_points.txt
+writing requirements to rover.egg-info/requires.txt
+writing top-level names to rover.egg-info/top_level.txt
+writing manifest file 'rover.egg-info/SOURCES.txt'
+reading manifest file 'rover.egg-info/SOURCES.txt'
+writing manifest file 'rover.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages/rover.egg-link (link to .)
+
+Installed /home/balasuriya/finalsemproject/build/rover
+running install_data
+creating /home/balasuriya/finalsemproject/install/rover/share/ament_index
+creating /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index
+creating /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index/packages
+copying resource/rover -> /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index/packages
+copying package.xml -> /home/balasuriya/finalsemproject/install/rover/share/rover
+copying launch/2_gazebo_spwan.launch.py -> /home/balasuriya/finalsemproject/install/rover/share/rover
+copying launch/1_Rviz.launch.py -> /home/balasuriya/finalsemproject/install/rover/share/rover
+copying urdf/dolly.urdf -> /home/balasuriya/finalsemproject/install/rover/share/rover
+copying urdf/rover.urdf -> /home/balasuriya/finalsemproject/install/rover/share/rover
+copying urdf/config.rviz -> /home/balasuriya/finalsemproject/install/rover/share/rover

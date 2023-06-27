@@ -1,0 +1,9 @@
+source;share/prius_line_following/hook/pythonpath.ps1
+source;share/prius_line_following/hook/pythonpath.dsv
+source;share/prius_line_following/hook/pythonpath.sh
+source;share/prius_line_following/hook/ament_prefix_path.ps1
+source;share/prius_line_following/hook/ament_prefix_path.dsv
+source;share/prius_line_following/hook/ament_prefix_path.sh
+source;../../build/prius_line_following/share/prius_line_following/hook/pythonpath_develop.ps1
+source;../../build/prius_line_following/share/prius_line_following/hook/pythonpath_develop.dsv
+source;../../build/prius_line_following/share/prius_line_following/hook/pythonpath_develop.sh

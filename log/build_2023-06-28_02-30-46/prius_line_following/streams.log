@@ -1,0 +1,20 @@
+[0.833s] Invoking command in '/home/balasuriya/finalsemproject/build/prius_line_following': PYTHONPATH=/home/balasuriya/finalsemproject/build/prius_line_following/prefix_override:/home/balasuriya/finalsemproject/install/prius_line_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/prius_line_following/build --no-deps install_data
+[1.002s] /home/balasuriya/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.002s]   warnings.warn(
+[1.041s] running develop
+[1.181s] running egg_info
+[1.181s] writing prius_line_following.egg-info/PKG-INFO
+[1.182s] writing dependency_links to prius_line_following.egg-info/dependency_links.txt
+[1.182s] writing entry points to prius_line_following.egg-info/entry_points.txt
+[1.182s] writing requirements to prius_line_following.egg-info/requires.txt
+[1.182s] writing top-level names to prius_line_following.egg-info/top_level.txt
+[1.183s] reading manifest file 'prius_line_following.egg-info/SOURCES.txt'
+[1.184s] writing manifest file 'prius_line_following.egg-info/SOURCES.txt'
+[1.185s] running build_ext
+[1.185s] Creating /home/balasuriya/finalsemproject/install/prius_line_following/lib/python3.10/site-packages/prius-line-following.egg-link (link to .)
+[1.185s] Installing line_follower script to /home/balasuriya/finalsemproject/install/prius_line_following/lib/prius_line_following
+[1.186s] Installing video_saver script to /home/balasuriya/finalsemproject/install/prius_line_following/lib/prius_line_following
+[1.186s] 
+[1.186s] Installed /home/balasuriya/finalsemproject/build/prius_line_following
+[1.186s] running install_data
+[1.233s] Invoked command in '/home/balasuriya/finalsemproject/build/prius_line_following' returned '0': PYTHONPATH=/home/balasuriya/finalsemproject/build/prius_line_following/prefix_override:/home/balasuriya/finalsemproject/install/prius_line_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/prius_line_following/build --no-deps install_data

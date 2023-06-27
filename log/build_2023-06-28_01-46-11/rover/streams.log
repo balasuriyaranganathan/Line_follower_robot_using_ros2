@@ -1,0 +1,30 @@
+[0.693s] Invoking command in '/home/balasuriya/finalsemproject/build/rover': PYTHONPATH=/home/balasuriya/finalsemproject/build/rover/prefix_override:/home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/rover/build --no-deps install_data
+[0.865s] /home/balasuriya/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.865s]   warnings.warn(
+[0.895s] running develop
+[1.035s] running egg_info
+[1.035s] creating rover.egg-info
+[1.035s] writing rover.egg-info/PKG-INFO
+[1.036s] writing dependency_links to rover.egg-info/dependency_links.txt
+[1.036s] writing entry points to rover.egg-info/entry_points.txt
+[1.036s] writing requirements to rover.egg-info/requires.txt
+[1.036s] writing top-level names to rover.egg-info/top_level.txt
+[1.037s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[1.038s] reading manifest file 'rover.egg-info/SOURCES.txt'
+[1.039s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[1.040s] running build_ext
+[1.041s] Creating /home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages/rover.egg-link (link to .)
+[1.041s] 
+[1.041s] Installed /home/balasuriya/finalsemproject/build/rover
+[1.041s] running install_data
+[1.041s] creating /home/balasuriya/finalsemproject/install/rover/share/ament_index
+[1.041s] creating /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index
+[1.041s] creating /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index/packages
+[1.041s] copying resource/rover -> /home/balasuriya/finalsemproject/install/rover/share/ament_index/resource_index/packages
+[1.041s] copying package.xml -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.041s] copying launch/2_gazebo_spwan.launch.py -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.041s] copying launch/1_Rviz.launch.py -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.041s] copying urdf/dolly.urdf -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.042s] copying urdf/rover.urdf -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.042s] copying urdf/config.rviz -> /home/balasuriya/finalsemproject/install/rover/share/rover
+[1.083s] Invoked command in '/home/balasuriya/finalsemproject/build/rover' returned '0': PYTHONPATH=/home/balasuriya/finalsemproject/build/rover/prefix_override:/home/balasuriya/finalsemproject/install/rover/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/balasuriya/finalsemproject/build/rover/build --no-deps install_data
