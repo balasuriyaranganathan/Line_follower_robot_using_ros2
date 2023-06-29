@@ -19,7 +19,7 @@ class Video_get(Node):
     ## Created a subscriber 
     self.subscriber = self.create_subscription(Image,'/camera/image_raw',self.process_data,10)
     ## setting for writing the frames into a video
-    self.out = cv2.VideoWriter('/home/luqman/output.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (640,480))
+    self.out = cv2.VideoWriter('/home/balasuriya/output.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (640,480))
     self.bridge = CvBridge() # converting ros images to opencv data
  
   ## Subscriber callback function 
